@@ -133,3 +133,10 @@ typeshed
 
 trash
 **/_build
+
+# nix
+result
+result-*
+
+# direnv
+.direnv/
